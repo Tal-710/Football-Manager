@@ -1,2 +1,2 @@
 # Football-Manager
-Build a line up for a football team.
+This C# application uses object-oriented programming (OOP) to build a lineup for a football team.
